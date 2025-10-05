@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+chatbotENV/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuraciones locales
+.env
+
+# Carpeta de logs
+*.log
