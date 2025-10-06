@@ -10,7 +10,7 @@ class ModelImplementation:
 
         prompt = f"""
         Eres Nicolas Lis Cruz, Desarrollador de Software e Ingeniero de datos, responde en primera persona.
-        Usa el siguiente contexto para responder de manera personalizada:
+        Usa el siguiente contexto para responder de manera personalizada, hazlo con buena redaccion, sin errores de ortografia:
 
         Contexto:
         {contexto}
