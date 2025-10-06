@@ -1,0 +1,100 @@
+{
+    "nombre": "Nicolas Lis Cruz",
+    "perdil": " Ingeniero de Sistemas con experiencia integral en ingeniería de datos, desarrollo frontend y móvil, y automatización de procesos. He diseñado y optimizado soluciones end-to-end, desde la extracción y transformación de datos hasta la visualización endashboards interactivos y el despliegue de interfaces web. Mi dominio de Python me ha permitido crear procesos de automatización que mejoran la eficiencia operativa, y actualmente impulso la adopción de IA Agents para transformar flujos de trabajo, potenciar la toma de decisiones y generar innovación tecnológica en los proyectos",
+    "ocupacion": "Actualmente me desempeño como Ingeniero de Datos en AXA colpatria, creo soluciones orientadas a datos, Pipelines, ETLs, APIs en tiempo real e implementacion de modelos OCR y IA generativa",
+    "intereses": [
+        "IA",
+        "desarrollo web",
+        "data science"
+    ],
+    "trabajo": [
+        "Desarrollo de pipelines ELT eficientes con Python, SSIS y SQL Server, desde la extracción y transformación hasta",
+        "Automatización de procesos de validación y limpieza de datos mediante Python, aplicando reglas de negocio y reduciendo significativamente la intervención manual.",
+        "Implementación de modelos y sistemas OCR para validar reglas de negocio y extraer información clave de documentos, mejorando la precisión y trazabilidad en la gestión de datos.",
+        " Creación de APIs REST para exponer datos y permitir consultas en tiempo real, integrando múltiples sistemas y agilizando el acceso a información crítica.",
+        " Integración de datos transformados en tableros BI, apoyando la toma de decisiones estratégicas mediante visualizaciones dinámicas y confiables.",
+        "Participación en proyectos de automatización e IA Agents, orientados a optimizar flujos de trabajo, monitorear procesos ETL y generar insights automáticos.",
+        "Migración y optimización de scripts en Python, garantizando su correcta ejecución en nuevos servidores y mejorando la eficiencia de los flujos de datos."
+    ],
+    "portafolio" : "https://nicolis15.github.io/webNicolas/",
+    "proyectos": [
+        {
+            "nombre": "Parchelo",
+            "descripcion": "Desarrollé una aplicación móvil multiplataforma utilizando React Native, permitiendo su funcionamiento tanto en dispositivos Android como iOS. El proyecto fue creado desde cero, incluyendo el diseño completo de la interfaz y la experiencia de usuario, asegurando una navegación intuitiva y visualmente atractiva. Implementé un sistema de autenticación para el acceso seguro de los usuarios, así como la conexión con una base de datos MongoDB para el almacenamiento y gestión de la información. Esto permitió mantener una estructura robusta para el manejo de datos en tiempo real. Además, integré la funcionalidad de vista de mapa (MapView), facilitando la visualización geográfica de datos clave dentro de la app.",
+            "tecnologias": [
+                "React Native",
+                "JavaScript",
+                "Git",
+                "Mongo DB"
+            ]
+        },
+        {
+            "nombre": "Portafolio",
+            "descripcion": "Desarrollé un portafolio web moderno y responsive utilizando React, con la herramienta de empaquetado Vite, lo que me permitió optimizar el rendimiento del proyecto y disfrutar de una experiencia de desarrollo más rápida y eficiente. Para la navegación entre secciones, integré React Router DOM, garantizando una transición fluida sin recargas de página. Utilicé Tailwind CSS para aplicar un diseño limpio y profesional, completamente adaptable a distintos dispositivos. Logré estilizar los componentes de forma ágil y coherente, manteniendo una apariencia visual cuidada en todo el sitio. El portafolio está diseñado como una vitrina profesional que refleja mis habilidades técnicas y de diseño. Cuenta con secciones como presentación personal, proyectos destacados, tecnologías que domino y un formulario de contacto para facilitar la conexión con posibles empleadores o colaboradores.",
+            "tecnologias": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React"
+            ]
+        },
+
+        {
+            "nombre": "Portafolio",
+            "descripcion": "Desarrollé un portafolio web moderno y responsive utilizando React, con la herramienta de empaquetado Vite, lo que me permitió optimizar el rendimiento del proyecto y disfrutar de una experiencia de desarrollo más rápida y eficiente. Para la navegación entre secciones, integré React Router DOM, garantizando una transición fluida sin recargas de página. Utilicé Tailwind CSS para aplicar un diseño limpio y profesional, completamente adaptable a distintos dispositivos. Logré estilizar los componentes de forma ágil y coherente, manteniendo una apariencia visual cuidada en todo el sitio. El portafolio está diseñado como una vitrina profesional que refleja mis habilidades técnicas y de diseño. Cuenta con secciones como presentación personal, proyectos destacados, tecnologías que domino y un formulario de contacto para facilitar la conexión con posibles empleadores o colaboradores.",
+            "tecnologias": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React"
+            ]
+        },
+
+        {
+            "nombre": "Little Lemon",
+            "descripcion": "Desarrollé una aplicación nativa para Android utilizando Kotlin como lenguaje de programación principal y Jetpack Compose para la interfaz de usuario, logrando un diseño moderno, fluido y totalmente responsivo en diferentes dispositivos. La aplicación integra el consumo de API a través de la biblioteca Ktor, lo que permite una comunicación eficiente con servicios externos y la recuperación de datos en tiempo real. Esta implementación simplificó y flexibilizó la gestión de solicitudes HTTP dentro del entorno Kotlin. El uso combinado de Jetpack Compose y Ktor me permitió construir una arquitectura limpia con componentes desacoplados y de fácil mantenimiento, garantizando una experiencia de usuario consistente y un desarrollo ágil.",
+            "tecnologias": [
+                "Kotlin",
+                "ApiRest",
+                "Ktor"
+            ]
+        }
+    ],
+    "habilidades": {
+        "tecnicas": [
+            "Python",
+            "SQL",
+            "React y React Native",
+            "ETL",
+            "JavaScript",
+            "kotlin",
+            "Java",
+            "Machine Learning",
+            "Front end developer",
+            "Backend develper"
+        ],
+        "blandas": [
+            "comunicación",
+            "pensamiento crítico",
+            "responsabilidad",
+            "diligente"
+        ]
+    },
+    "educacion": {
+        "nivel": "Pregrado",
+        "institucion": "Universidad Jorge Tadeo Lozano",
+        "estado": "Finalizado"
+    },
+    "objetivos": [
+        "Convertirme en experto en ciencia de datos aplicada.",
+        "Mejorar mis habilidades en ingeniería de software."
+    ],
+    "preferencias": {
+        "tono_respuestas": "profesional pero amigable",
+        "idioma": [
+            "español",
+            "ingles",
+            "portugues"
+        ]
+    }
+}
